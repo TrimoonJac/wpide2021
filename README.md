@@ -2,7 +2,7 @@
 
 This is a restyled version of https://github.com/WPsites/WPide
 
-WPide is a WordPress code editor with the long term goal of becoming the ultimate environment to code/develop WordPress themes and plugins. You can edit any files in your wp-content, not just plugins and themes. Code completion will help you remember your WordPress/PHP commands providing function reference along the way. Edit multiple concurrent files with the tabbed editor.
+"WPide is a WordPress code editor with the long term goal of becoming the ultimate environment to code/develop WordPress themes and plugins. You can edit any files in your wp-content, not just plugins and themes. Code completion will help you remember your WordPress/PHP commands providing function reference along the way. Edit multiple concurrent files with the tabbed editor."
 
 ![New-icons](https://user-images.githubusercontent.com/89203214/132878237-af15d70e-8a68-4a00-917d-04a0f6403ad8.png)
 
