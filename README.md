@@ -1,6 +1,6 @@
 # wpide2021
 
-This is a restyled version of https://github.com/WPsites/WPide & https://wordpress.org/plugins/wpide/
+This is a dark reskin/theme version of https://github.com/WPsites/WPide & https://wordpress.org/plugins/wpide/
 
 "WPide is a WordPress code editor with the long term goal of becoming the ultimate environment to code/develop WordPress themes and plugins. You can edit any files in your wp-content, not just plugins and themes. Code completion will help you remember your WordPress/PHP commands providing function reference along the way. Edit multiple concurrent files with the tabbed editor."
 
